@@ -1,0 +1,17 @@
+.mainHeader {
+    color:red;
+    font-size: 20px;
+}
+.secondHeader {
+color:lime;
+}
+.mainFooter {
+    color:salmon;
+    font-size: 10px;
+}
+.h2{
+    color:hotpink;
+}
+.mainBody {
+    background:lightblue;
+}
