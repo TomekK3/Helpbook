@@ -1,20 +1,31 @@
 .mainHeader {
-    color:red;
+    color: red;
     font-size: 20px;
 }
+
 .secondHeader {
-color:lime;
+    color: lime;
 }
+
 .mainFooter {
-    color:burlywood;
+    color: burlywood;
     font-size: 10px;
 }
-.h2{
-    color:hotpink;
+
+.h2 {
+    color: hotpink;
 }
+
 .mainBody {
-    background:lightblue;
+    background: lightblue;
 }
+
 .mainSection {
     background: white;
+}
+
+#octocat {
+    display: block;
+    width: 384px;
+    margin: 50px auto;
 }
