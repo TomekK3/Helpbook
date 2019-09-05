@@ -1,4 +1,4 @@
-alert('siema')
+
 
 const name='Tomek';
 const age=28;
